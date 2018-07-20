@@ -11,3 +11,5 @@ passwd + name  添加密码
 su - name 切换用户 root进入其他用户 不用密码 其他进入 root 需要密码
 pwd 显示路径
 ls -a 可显示隐藏文件
+cp aaa /root/usr  复制文件到。。。
+
